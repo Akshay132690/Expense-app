@@ -109,14 +109,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
 Akshay Ingle
 ---
 
-If you want, just share:
-✅ Your **name**
-✅ Your **GitHub link**
-✅ Your **repo link**
-
-I’ll customize the README even further for you!
 
